@@ -2,7 +2,6 @@
 
 A comprehensive and scalable e-commerce application built using Laravel and Vue.js. This application offers a rich set of features for building and managing an online store, including product management, payment integration, order tracking, and much more. The combination of Laravel and Vue.js ensures a dynamic, responsive, and powerful user experience.
 
-![Laravel Vue E-commerce Banner]([https://your-banner-image-url.com/banner.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftherichpost.com%2Fvue-3-v-shop-free-ecommerce-template-download%2F&psig=AOvVaw2TMXmi12wUTWzJ2f2X-Pxd&ust=1729611753651000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCD3Iron4kDFQAAAAAdAAAAABAE))
 
 ## 🌟 Features
 
